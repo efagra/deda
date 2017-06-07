@@ -1,6 +1,6 @@
 # deda
 
-A sememster project for the course Distributed Systems I attended in Univercity of Macedonia www.uom.gr.
+DEDA is a sememster project for the course Distributed Systems, that I have attended during my Bachelor's degree in the Univercity of Macedonia www.uom.gr.
 
 DEDA stands for Distributed Easy Development Administration. It's a graphical multiuser application that helps a team of developers administer their projects, using repository and issue ticket management through a single standalone application.
 
